@@ -1,2 +1,4 @@
 # project-millennia
-Simple Linux theming project - very early stage
+Simple Millennium-themed Linux project - very early stage
+
+Currently /etc/motd, /etc/issue/, /etc/os-release, and fastfetch config are available.
