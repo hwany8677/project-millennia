@@ -1,0 +1,127 @@
+{
+  "$schema": "https://github.com/fastfetch-cli/fastfetch/raw/dev/doc/json_schema.json",
+  "logo": {
+    "source": "/home/maki/.local/share/fastfetch/logos/millennium",
+    "color": {
+      "1": "white"
+    }
+  },
+  "modules": [
+    {
+      "type": "title",
+      "color": {"user": "blue", "at": "white", "host": "blue"}
+    },
+    {
+      "type": "separator",
+      "keyColor": "blue"
+    },
+    {
+      "type": "os",
+      "keyColor": "blue"
+    },
+    {
+      "type": "host",
+      "keyColor": "blue"
+    },
+    {
+      "type": "kernel",
+      "keyColor": "blue"
+    },
+    {
+      "type": "uptime",
+      "keyColor": "blue"
+    },
+    {
+      "type": "packages",
+      "keyColor": "blue"
+    },
+    {
+      "type": "shell",
+      "keyColor": "blue"
+    },
+    {
+      "type": "display",
+      "keyColor": "blue"
+    },
+    {
+      "type": "de",
+      "keyColor": "blue"
+    },
+    {
+      "type": "wm",
+      "keyColor": "blue"
+    },
+    {
+      "type": "wmtheme",
+      "keyColor": "blue"
+    },
+    {
+      "type": "theme",
+      "keyColor": "blue"
+    },
+    {
+      "type": "icons",
+      "keyColor": "blue"
+    },
+    {
+      "type": "font",
+      "keyColor": "blue"
+    },
+    {
+      "type": "cursor",
+      "keyColor": "blue"
+    },
+    {
+      "type": "terminal",
+      "keyColor": "blue"
+    },
+    {
+      "type": "terminalfont",
+      "keyColor": "blue"
+    },
+    {
+      "type": "cpu",
+      "keyColor": "blue"
+    },
+    {
+      "type": "gpu",
+      "keyColor": "blue"
+    },
+    {
+      "type": "memory",
+      "keyColor": "blue"
+    },
+    {
+      "type": "swap",
+      "keyColor": "blue"
+    },
+    {
+      "type": "disk",
+      "keyColor": "blue"
+    },
+    {
+      "type": "localip",
+      "keyColor": "blue"
+    },
+    {
+      "type": "battery",
+      "keyColor": "blue"
+    },
+    {
+      "type": "poweradapter",
+      "keyColor": "blue"
+    },
+    {
+      "type": "locale",
+      "keyColor": "blue"
+    },
+    {
+      "type": "break",
+      "keyColor": "blue"
+    },
+    {
+      "type": "colors",
+      "keyColor": "blue"
+    }
+  ]
+}
